@@ -67,8 +67,13 @@ What was the total revenue for June, and how is it distributed across vehicle ty
 - **Strategic Decision-Making**: Reveals revenue concentration among top customers, guiding **loyalty and retention programs**.  
 
 ## Screenshots
-- ![**1. Overall trends**]([Snapshots of Dashboard/1. OLA Overall.png](https://github.com/NandiniP78/OLA-Analysis/blob/359430b22b31bc2c628e3d6e2a52db9cdcbc1aa0/Snapshots%20of%20Dashboard/1.%20OLA%20Overall.png))
-- ![**2. By Vehicle Type**](Snapshots of Dashboard/1. OLA Vehicle Type.png)
-- ![**3. Revenue**](Snapshots of Dashboard/1. OLA Revenue.png)
-- ![**4. Cancellation**](Snapshots of Dashboard/1. OLA Cancellation.png)
-- ![**5. Ratings**](Snapshots of Dashboard/1. OLA Ratings.png)
+- <img width="1295" height="732" alt="OLA Overall" src="https://github.com/user-attachments/assets/76d74575-4255-46e2-9300-639345e2168d" />
+- <img width="1312" height="722" alt="OLA Vehicle Type" src="https://github.com/user-attachments/assets/1e9fbd6d-3e3c-4c74-9e2c-3c04c6b79a15" />
+- <img width="1299" height="731" alt="OLA Revenue" src="https://github.com/user-attachments/assets/6021895e-464c-459b-b5f1-37f5aed3e08f" />
+- <img width="1292" height="734" alt="OLA Cancellation" src="https://github.com/user-attachments/assets/807c9bfe-6c9b-4a52-b24f-506fef7bfa9d" />
+- <img width="1310" height="734" alt="OLA Ratings" src="https://github.com/user-attachments/assets/c5081667-de90-4ef3-a5b2-6bc72f6c0de8" />
+
+
+
+  
+
