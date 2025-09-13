@@ -1,5 +1,5 @@
 # OLA-Rides-Dashborad
-## 1. OLA-Analysis : OLA Rides Analysis Dashboard A dynamic, interactive data visualization tool built to explore trenda in revenue, cancellation rates, ratings, customer behaviour etc.
+## 1. OLA-Analysis : OLA Rides Analysis Dashboard A dynamic, interactive data visualization tool built to explore trends in revenue, cancellation rates, ratings, customer behaviour etc.
 
 ## 2. Description
 The OLA Ride Analytics Dashboard is an interactive Power BI report built on synthetic data containing 1M ride records and 20 attributes. It allows users to explore booking trends, vehicle type performance, cancellation behavior, revenue distribution, and customer ratings. With multi-page analysis, the dashboard provides a comprehensive view of operational efficiency, customer experience, and business performance, making it a valuable tool for analysts, business strategists, and decision-makers in the mobility sector.
