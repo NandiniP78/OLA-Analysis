@@ -23,16 +23,49 @@ What are the top reasons for ride cancellations?
 What was the total revenue for June, and how is it distributed across vehicle types?...etc difficult to answer quickly with raw data.
 
 ## Walkthrough of Key Visuals
-  1.Overall Page
-  - Total Bookings (103.02K) – Displays the total number of rides requested during July.
-  - Total Booking Value (35M) – Shows the total revenue generated from bookings.
-  - Booking Status Pie Chart – Breaks down rides into Success, Cancelled by Driver, Cancelled by Customer, and Driver Not Found.
-  - Ride Volume Over Time (Line Chart) – Tracks daily ride demand and booking fluctuations across the month.
-  - 📌 Insight: Majority of rides (62%) were successful, but cancellations (by both customers and drivers) remain significant.
-  2.Vehicle Type Page
-  - Table of Metrics by Vehicle Type – Each vehicle type (Sedan, SUV, Auto, Bike, etc.) is analyzed across:
-     - Total Booking Value
-     - Successful Booking Value
-     - Average Distance Travelled per Ride
-     - Total Distance Travelled
-- 📌 Insight: Premium vehicle categories like Prime Sedan and E-Bike bring in high booking values, while Autos contribute shorter-distance but frequent trips.
+  ### **1. Overall Trends**
+- **1M+ Bookings** captured in July.
+- **₹35M+ Total Booking Value** generated.
+- Booking outcomes split into: *Successful Rides (62%), Cancelled by Customer, Cancelled by Driver, Driver Not Found*.  
+- **Daily ride demand** fluctuations visualized across the month.
+
+---
+
+### **2. Vehicle Type Analysis**
+- Comparison of **Sedan, SUV, Auto, Bike, E-Bike, Prime Sedan**, etc.  
+- Metrics: *Total Booking Value, Successful Booking Value, Average Distance, and Total Distance*.  
+- Premium categories (e.g., Prime Sedan) show higher booking value, while Autos drive shorter but frequent rides.
+
+---
+
+### **3. Revenue Insights**
+- **Revenue Distribution** by payment method (Cash, UPI, Card).  
+- **Top 5 Customers** contribute significantly to monthly revenue.  
+- **Revenue Over Time** highlights weekday vs. weekend fluctuations.
+
+---
+
+### **4. Cancellation Analysis**
+- **~28% Cancellation Rate** observed.  
+- **Customer Cancellations**: “Driver not moving” and “Change of plans” top reasons.  
+- **Driver Cancellations**: Mostly due to *personal reasons and vehicle issues*.  
+- Indicates significant revenue leakage and customer dissatisfaction.
+
+---
+
+### **5. Ratings Overview**
+- **Driver Ratings** average ~4.0.  
+- **Customer Ratings** average ~4.0.  
+- Consistency across categories, showing balanced satisfaction.
+
+##  Business Impact
+- **Revenue Optimization**: ~28% cancellations highlight potential **revenue leakage**; actionable insights can help reduce lost income.  
+- **Fleet Utilization**: Identifies which vehicle categories bring **high revenue vs. high volume**, aiding **better allocation of resources**.  
+- **Customer Experience**: Ratings + cancellation trends guide strategies for **improving reliability and trust**.  
+- **Payment Strategy**: Shows dominance of cash while tracking growth in digital payments (UPI/Cards), helping shape **payment incentives**.  
+- **Operational Efficiency**: Demand trends enable **smarter driver scheduling and surge pricing**.  
+- **Strategic Decision-Making**: Reveals revenue concentration among top customers, guiding **loyalty and retention programs**.  
+
+## Screenshots
+- **1.Overall trends**
+- 
