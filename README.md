@@ -22,10 +22,10 @@ Which vehicle type generated the most revenue?
 What are the top reasons for ride cancellations?
 What was the total revenue for June, and how is it distributed across vehicle types?...etc difficult to answer quickly with raw data.
 
-- Walkthrough of Key Visuals
+## Walkthrough of Key Visuals
   1.Overall Page
   - Total Bookings (103.02K) – Displays the total number of rides requested during July.
   - Total Booking Value (35M) – Shows the total revenue generated from bookings.
   - Booking Status Pie Chart – Breaks down rides into Success, Cancelled by Driver, Cancelled by Customer, and Driver Not Found.
   - Ride Volume Over Time (Line Chart) – Tracks daily ride demand and booking fluctuations across the month.
-📌 Insight: Majority of rides (62%) were successful, but cancellations (by both customers and drivers) remain significant.
+  - 📌 Insight: Majority of rides (62%) were successful, but cancellations (by both customers and drivers) remain significant.
