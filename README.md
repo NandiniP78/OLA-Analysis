@@ -29,3 +29,10 @@ What was the total revenue for June, and how is it distributed across vehicle ty
   - Booking Status Pie Chart – Breaks down rides into Success, Cancelled by Driver, Cancelled by Customer, and Driver Not Found.
   - Ride Volume Over Time (Line Chart) – Tracks daily ride demand and booking fluctuations across the month.
   - 📌 Insight: Majority of rides (62%) were successful, but cancellations (by both customers and drivers) remain significant.
+2.Vehicle Type Page
+  - Table of Metrics by Vehicle Type – Each vehicle type (Sedan, SUV, Auto, Bike, etc.) is analyzed across:
+     - Total Booking Value
+     - Successful Booking Value
+     - Average Distance Travelled per Ride
+     - Total Distance Travelled
+- 📌 Insight: Premium vehicle categories like Prime Sedan and E-Bike bring in high booking values, while Autos contribute shorter-distance but frequent trips.
