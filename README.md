@@ -67,7 +67,7 @@ What was the total revenue for June, and how is it distributed across vehicle ty
 - **Strategic Decision-Making**: Reveals revenue concentration among top customers, guiding **loyalty and retention programs**.  
 
 ## Screenshots
-- ![**1. Overall trends**](Snapshots of Dashboard/1. OLA Overall.png)
+- ![**1. Overall trends**]([Snapshots of Dashboard/1. OLA Overall.png](https://github.com/NandiniP78/OLA-Analysis/blob/359430b22b31bc2c628e3d6e2a52db9cdcbc1aa0/Snapshots%20of%20Dashboard/1.%20OLA%20Overall.png))
 - ![**2. By Vehicle Type**](Snapshots of Dashboard/1. OLA Vehicle Type.png)
 - ![**3. Revenue**](Snapshots of Dashboard/1. OLA Revenue.png)
 - ![**4. Cancellation**](Snapshots of Dashboard/1. OLA Cancellation.png)
