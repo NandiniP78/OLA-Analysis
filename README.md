@@ -1,4 +1,4 @@
-# OLA-Rides-Dashborad
+# OLA-Rides-Dashboard
 ## 1. OLA-Analysis : OLA Rides Analysis Dashboard A dynamic, interactive data visualization tool built to explore trends in revenue, cancellation rates, ratings, customer behaviour etc.
 
 ## 2. Description
