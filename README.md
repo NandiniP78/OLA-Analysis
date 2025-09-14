@@ -6,10 +6,10 @@ The OLA Ride Analytics Dashboard is an interactive Power BI report built on synt
 
 ## 3. Tech Stack
 The dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+- 📊 Power BI Desktop – Main data visualization platform used for report creation.
+- 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+- 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+- 📁 File Format – .pbix for development and .png for dashboard previews.
 
 ## 4. Data Source
 The dashboard is built on a synthetic dataset containing 1M rows and 20 columns. The data was generated to mimic real-world OLA ride patterns, including booking details, ride status, customer IDs, reasons for cancellation, ride value, and ratings. It is designed purely for analytical and visualization purposes and does not represent actual company data.
